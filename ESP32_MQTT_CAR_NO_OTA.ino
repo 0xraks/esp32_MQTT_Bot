@@ -5,11 +5,15 @@
 
 
 
-// WIFI configuration
+// WIFI and MQTT broker configuration 
 
 const char* ssid = "YOUR SSID";
 const char* password = "YOUR WIFI PASSWORD";
 const char* mqtt_server = "MQTT BROKER";
+//OPTIONAL PARAMETERS
+//const int mqttPort = 1883;
+//const char* mqttUser = "YourMqttUser";
+//const char* mqttPassword = "YourMqttUserPassword";
 
 unsigned long intervals[] = {75,40,70,40,70,40,70,40,1000,0};
 const byte NUM_OF_INTERVALS = sizeof(intervals) / sizeof(unsigned long);
