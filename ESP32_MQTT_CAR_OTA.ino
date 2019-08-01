@@ -9,6 +9,10 @@
 const char* ssid = "YOUR SSID";
 const char* password = "YOUR PASSWORD";
 const char* mqtt_server = "YOUR MQTT SERVER IP/WEB";
+//OPTIONAL PARAMETERS
+//const int mqttPort = 1883;
+//const char* mqttUser = "YourMqttUser";
+//const char* mqttPassword = "YourMqttUserPassword";
 
 unsigned long intervals[] = {75,40,70,40,70,40,70,40,1000,0};
 const byte NUM_OF_INTERVALS = sizeof(intervals) / sizeof(unsigned long);
