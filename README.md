@@ -4,9 +4,9 @@ The bot has a obstacle sensing mode that uses proximity sensors on the front and
 
 
 Upcoming features:
-Magnetic charging dock
-Onboarding measuring of battery voltage
-Machine Learning mode - the bot predicts obstacles if it had encountered it before,even before the proximity obstacle detector senses it
-Line Following mode - can follow predefined paths using proximity sensors(uses insfrared to detect black/white patterens).
-Returns to charging docks by following line, when the battery  becomes low.
+<br > Magnetic charging dock <br />
+<br >Onboarding measuring of battery voltage <br />
+<br >Machine Learning mode - the bot predicts obstacles if it had encountered it before,even before the proximity obstacle detector senses it  <br />
+<br >Line Following mode - can follow predefined paths using proximity sensors(uses insfrared to detect black/white patterens). <br />
+<br >Returns to charging docks by following line, when the battery  becomes low. <br />
 
