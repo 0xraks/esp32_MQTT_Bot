@@ -25,19 +25,19 @@ MQTT Topics:
     
       "CRAZY" and "CRAZY2" : Rotates wheels in random directions, Helpful incase the bot is struck.
       
-      ## Project Extra Features
-      - Magnetic charging dock.
+## Project Extra Features
+- Magnetic charging dock.
       
-      - Onboarding measuring of battery voltage.
+- Onboarding measuring of battery voltage.
       
-      - OTA program updates.
+- OTA program updates.
       
-      ## Ideas to be implimented in the future
+## Ideas to be implimented in the future
       
-      Machine Learning mode - the bot predicts obstacles if it had encountered it before,even before the proximity obstacle detector senses it
+Machine Learning mode - the bot predicts obstacles if it had encountered it before,even before the proximity obstacle detector senses it
       
-      Line Following mode - can follow predefined paths using proximity sensors(uses insfrared to detect black/white patterens).
+Line Following mode - can follow predefined paths using proximity sensors(uses insfrared to detect black/white patterens).
       
-      Returns to charging docks by following line, when the battery becomes low.
+Returns to charging docks by following line, when the battery becomes low.
       
     
