@@ -3,9 +3,9 @@
 
 // WIFI and MQTT broker configuration
 
-const char* ssid = "Raks";
-const char* password = "samba@raks6369";
-const char* mqtt_server = "192.168.0.42";
+const char* ssid = "wifi_name";
+const char* password = "password";
+const char* mqtt_server = "ip_of_server";
 const char* client_name = "MQTT Car ESP32";
 unsigned long intervals[] = {75, 40, 70, 40, 70, 40, 70, 40, 1000, 0}; // Pattern in which the inbuilt LED on the ESP32 should flash
 const byte NUM_OF_INTERVALS = sizeof(intervals) / sizeof(unsigned long);
