@@ -4,6 +4,8 @@ It is a wheeled ESP32 powered bot that can be controlled over MQTT protocol over
 
 The code uses PubSubClient as the MQTT library.
 
+![](media/IMG-20190813-WA0008.jpeg)
+
 MQTT Topics:
 
 - The bot publishes status with wifi RSSI at "mqttcar/status" topic , the on board LED on the ESP32 flashes in a certain pattern.
@@ -39,5 +41,7 @@ Machine Learning mode - the bot predicts obstacles if it had encountered it befo
 Line Following mode - can follow predefined paths using proximity sensors(uses insfrared to detect black/white patterens).
       
 Returns to charging docks by following line, when the battery becomes low.
+
+![](media/IMG-20190813-WA0009.jpeg)
       
     
