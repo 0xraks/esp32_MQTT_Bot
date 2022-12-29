@@ -1,6 +1,6 @@
 # 4WD MQTT BOT
 ## About
-It is a wheeled ESP32 powered bot that can be controlled over MQTT protocol over WiFi. The MQTT broker (such as Mosquitto) can be used or Adafruit IO's free MQTT broker can be used.
+It is a two wheeled ESP32 powered bot that can be controlled over MQTT protocol over WiFi. The MQTT broker (such as Mosquitto) can be used or Adafruit IO's free MQTT broker can be used.
 
 The code uses PubSubClient as the MQTT library.
 
